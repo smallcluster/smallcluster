@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smallcluster
+- 👋 Hi, I’m JAFFUER Pierre
 - 👀 I’m interested in ... Game dev & Graphics programming
 - 🌱 I’m currently learning ... C++ & modern Opengl 
 
