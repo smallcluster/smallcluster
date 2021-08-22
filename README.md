@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ... C++ & modern Opengl 
 
 Check out some of my work !
-- **The Rise of Atlantica** : https://sirius-alastrot.itch.io/the-rise-of-altantica
-- **Lost Dog** : https://smallcluster.itch.io/lost-dog
 - **Inu & Neko: The Kiretsu menace** : https://thrystan.itch.io/inu-neko-the-kiretsu-menace
+- **Lost Dog** : https://smallcluster.itch.io/lost-dog
+- **The Rise of Atlantica** : https://sirius-alastrot.itch.io/the-rise-of-altantica
 - **Le Bouchon d' Or** : https://play.google.com/store/apps/details?id=com.optimob.lebouchondor&hl=en_US&gl=US
 
 
