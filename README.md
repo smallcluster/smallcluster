@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JAFFUER Pierre
+- 👋 Hi, I’m Pierre Jaffuer
 - 👀 I’m interested in ... Game dev & Graphics programming
 - 🌱 I’m currently learning ... C++ & modern Opengl 
 
