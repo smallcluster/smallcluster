@@ -3,6 +3,8 @@
 - 👀 I’m interested in ... Game dev, Graphics programming and code interpreters
 - 🌱 I’m currently learning ... C++ & modern Opengl
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallcluster)](https://github.com/anuraghazra/github-readme-stats)
+
 # Check out some of my work !
 
 ## Games
