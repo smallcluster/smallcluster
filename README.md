@@ -8,7 +8,7 @@ I'm a computer science student at University of La Réunion, a French departemen
 
 # Check out some of my work !
 
-Here are some of my favorite projects
+Here are some of my favorite projects -[^-^]-
 
 ## Softwares
 
@@ -20,5 +20,9 @@ Here are some of my favorite projects
 ## Games
 
 **See them on my itch.io profile !** : https://smallcluster.itch.io/
+
+## Web
+
+**Interractive particle simulation** : https://smallcluster.github.io/
 
 
