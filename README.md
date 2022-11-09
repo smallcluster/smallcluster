@@ -1,4 +1,4 @@
-# Hi, I’m JAFFUER Pierre
+# Hi, I’m JAFFUER Pierre 👋
 
 I'm a computer science student at University of La Réunion, a French departement in the Indian Ocean.
 - I’m interested in Game dev, Graphics programming and code interpreters/compilers
