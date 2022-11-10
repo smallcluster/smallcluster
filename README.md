@@ -6,6 +6,8 @@ I'm a computer science student at University of La Réunion, a French departemen
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallcluster&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallcuster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Check out some of my work !
 
 Here are some of my favorite projects -[^-^]-
