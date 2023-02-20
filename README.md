@@ -24,8 +24,4 @@ Here are some of my favorite projects -[^-^]-
 
 **See them on my itch.io profile !** : https://smallcluster.itch.io/
 
-## Personal website
-
-https://smallcluster.github.io/
-
 
