@@ -15,6 +15,7 @@ Here are some of my favorite projects -[^-^]-
 ## Softwares
 
 - **Lcalc** (A untyped lambda calculus interpreter) : https://github.com/smallcluster/Lcalc
+- **BasicBool** (A program to visualize boolean logic) : https://github.com/smallcluster/BasicBool
 - **SUI** (A simple 3d Voxel island surface generator from a 2d polygon) : https://github.com/smallcluster/SUI
 - **SimpleRetargeting** (Blender addon for motion retargeting) : https://github.com/smallcluster/TER-animation-3d
 - **ProjectGrapher** (graph plotting software in java) : https://github.com/smallcluster/ProjectGrapher
