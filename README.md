@@ -1,14 +1,15 @@
-# Hi, I’m JAFFUER Pierre 👋
+<h1  align="center"> Hi, I’m JAFFUER Pierre 👋 </h1>
 
-I'm a computer science student at University of La Réunion, a French departement in the Indian Ocean.
-- I’m interested in Game dev, Graphics programming and code interpreters/compilers
-- I’m currently learning C++, modern Opengl and lambda calculus
 
-# Check out some of my work !
+I'm a developper with a Master's degree in computer science from University of La Réunion, a French departement in the Indian Ocean.
+- I’m interested in game dev 🕹️, graphics programming 🖼️ and code interpreters/compilers ⚙️
+- I’m currently learning C++ , modern OpenGL, Delphi and description logics 
 
-Here are some of my favorite projects -[^-^]-
+# Check out my work !
 
-## Softwares
+Here are some of my favorite projects:
+
+## Softwares 🛠️
 
 - **Lcalc** (A untyped lambda calculus interpreter) : https://github.com/smallcluster/Lcalc
 - **BasicBool** (A program to visualize boolean logic) : https://github.com/smallcluster/BasicBool
@@ -17,8 +18,8 @@ Here are some of my favorite projects -[^-^]-
 - **SimpleRetargeting** (Blender addon for motion retargeting) : https://github.com/smallcluster/TER-animation-3d
 - **ProjectGrapher** (graph plotting software in java) : https://github.com/smallcluster/ProjectGrapher
 
-## Games
+## Games 🕹️
 
-**See them on my itch.io profile !** : https://smallcluster.itch.io/
+**See them on my itch.io** : https://smallcluster.itch.io/
 
 
