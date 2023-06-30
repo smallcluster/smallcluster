@@ -1,7 +1,7 @@
 <h1  align="center"> Hi, I’m JAFFUER Pierre 👋 </h1>
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZkaWlsdm41MXM1eTViNWRoYjV2bm4zbG56a25kZ3E1MXI0czV6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThta0yq8q9JwHL8kg/giphy.gif" width="25%" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlseXRhOXN4cTE3NmRyaXVvamk5Y2Uzd2o5ZXgwZzZncW9sem8wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/125rKdpHdCHUek/giphy.gif" width="25%" align="right"/>
 
 I'm a developper with a Master's degree in computer science from University of La Réunion, a French departement in the Indian Ocean.
 - I’m interested in game dev 🕹️, graphics programming 🖼️ and code interpreters/compilers ⚙️</li>
