@@ -6,7 +6,7 @@
 I'm a developper with a Master's degree in computer science from University of La Réunion, a French departement in the Indian Ocean.
 - I’m interested in game dev, graphics programming, code interpreters and symbolic AI
 - I’m currently learning neural networks in general
-- Currently enjoying some <img height="16" width="16" src="https://cdn.simpleicons.org/c++" /> c++ coding
+- Currently enjoying some C++ coding
 
 
 # Check out my work !
