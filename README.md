@@ -19,6 +19,7 @@ Here are some of my favorite projects:
 - **BasicBool** (A program to visualize boolean logic): https://github.com/smallcluster/BasicBool
 - **GDST** (A simulator for a swarm of limited autonomous mobiles robots): https://github.com/smallcluster/GDST
 - **SUI** (A simple 3d Voxel island surface generator from a 2d polygon): https://github.com/smallcluster/SUI
+- **ccmaze** (A computercraft focussed lua library for generating mazes): https://github.com/smallcluster/ccmaze
 - **SimpleRetargeting** (Blender addon for motion retargeting): https://github.com/smallcluster/TER-animation-3d
 - **ProjectGrapher** (graph plotting software in java): https://github.com/smallcluster/ProjectGrapher
 
